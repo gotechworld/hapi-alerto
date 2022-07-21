@@ -1,0 +1,4 @@
+config/manifest.json
+*.log
+.idea
+node_modules
