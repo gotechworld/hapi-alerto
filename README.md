@@ -1,3 +1,5 @@
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=petrugiurca_hapi-alerto)
+
 # Hapi - Alerto
 
 Will help the node js services to alert the logs collector app in order to report the failures
