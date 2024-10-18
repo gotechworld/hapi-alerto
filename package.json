@@ -9,7 +9,7 @@
   "author": "George Lixandroiu <georgian.lixandroiu@axsys.ro>",
   "license": "ISC",
   "dependencies": {
-    "@sentry/node": "^5.5.0",
+    "@sentry/node": "^7.75.0",
     "lodash": "^4.17.11",
     "os": "^0.1.1"
   }
